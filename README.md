@@ -1,0 +1,1 @@
+A python program to detect faces in an image using OpenCV
